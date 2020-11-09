@@ -11,7 +11,6 @@ public class First {
     }
 
     public void test(){
-        int i=0;
-        i+=10;
+
     }
 }
