@@ -7,7 +7,7 @@ public class First {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-        System.out.println("hello git");
+        System.out.println("hello world");
     }
 
     public void test(){
